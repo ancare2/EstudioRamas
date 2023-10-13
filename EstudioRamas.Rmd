@@ -1,0 +1,18 @@
+---
+title: "Estudio Ramas"
+author: "Anna Cabrerizo Requena"
+date: "2023-10-13"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+x<-3
+y<-4
+x+y
+```
+
